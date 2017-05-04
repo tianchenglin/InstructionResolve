@@ -1,0 +1,13 @@
+<!--
+  ~ Copyright (c) Created by T C L on 2017.5.3.
+  -->
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+
+  package="com.tcl.study.instructionsresolvelibrary">
+
+  <application android:allowBackup="true" android:label="@string/app_name" android:supportsRtl="true">
+
+  </application>
+
+</manifest>
